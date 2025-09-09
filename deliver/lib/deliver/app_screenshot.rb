@@ -255,9 +255,7 @@ module Deliver
         ],
         ScreenSize::IOS_IPAD_11_MESSAGES => [
           [1668, 2388],
-          [2388, 1668],
-          [2752, 2064],
-          [2064, 2752]
+          [2388, 1668]
         ],
         ScreenSize::IOS_IPAD_PRO_MESSAGES => [
           [2732, 2048],
@@ -332,8 +330,6 @@ module Deliver
         ScreenSize::IOS_IPAD_11 => [
           [1668, 2388],
           [2388, 1668],
-          [2752, 2064],
-          [2064, 2752]
         ],
         ScreenSize::IOS_IPAD_PRO => [
           [2732, 2048],
